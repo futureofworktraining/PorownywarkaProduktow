@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Comparator",
+  "description": "Inteligentna porównywarka produktów wykorzystująca Google Gemini. Wklej linki, określ preferencje i otrzymaj szczegółową analizę oraz rekomendację zakupową.",
+  "requestFramePermissions": []
+}
